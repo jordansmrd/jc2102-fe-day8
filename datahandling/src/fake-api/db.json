@@ -1,0 +1,40 @@
+{
+    "products" : [
+        {
+            "id":1,
+            "productName": "Apel",
+            "price": 6000,
+            "category" : "Fruit"
+        },
+        {
+            "id":2,
+            "productName": "Pisang",
+            "price": 8000,
+            "category" : "Fruit"
+        },
+        {
+            "id":3,
+            "productName": "Pir",
+            "price": 7000,
+            "category" : "Fruit"
+        },
+        {
+            "id":4,
+            "productName": "Anggur",
+            "price": 6500,
+            "category" : "Fruit"
+        },
+        {
+            "id":5,
+            "productName": "Jeruk",
+            "price": 4500,
+            "category" : "Fruit"
+        },
+        {
+            "id":6,
+            "productName": "Lengkeng",
+            "price": 5000,
+            "category" : "Fruit"
+        }
+    ]
+}
